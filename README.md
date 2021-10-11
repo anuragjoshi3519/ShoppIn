@@ -1,16 +1,15 @@
-# shoppin
+# Shopp'In
 
-A new Flutter project.
+### E-commerce mobile application based on consumer-to-consumer model. The app provides an online platform to facilitate selling and purchasing of goods and services in one’s local neighbourhood
 
-## Getting Started
+### Features included:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Login & Signup (using firestore)
+- Add own products to sell
+- Manage own products (change price, title, description, picture etc)
+- Search & explore products
+- Add & remove products from cart
+- Place orders from the cart screen
+- Set favorite products
+- See previous orders
+- Realtime data CRUD using Firebase Realtime Database and Firestore
