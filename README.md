@@ -1,6 +1,6 @@
 # Shopp'In
 
-### E-commerce mobile application based on consumer-to-consumer model. The app provides an online platform to facilitate selling and purchasing of goods and services in one’s local neighbourhood
+E-commerce mobile application based on consumer-to-consumer model. The app provides an online platform to facilitate selling and purchasing of goods and services in one’s local neighbourhood
 
 ### Features included:
 
